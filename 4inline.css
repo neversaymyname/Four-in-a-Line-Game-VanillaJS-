@@ -1,0 +1,17 @@
+h1,h2,h3{
+  text-align: center;
+}
+.col-lg-12 span{
+   width: 90px;
+   height: 90px;
+   border-radius: 45px;
+   border-width: 3px;
+   border-style: solid;
+   border-color: black;
+   background-color: #dde68e;
+   display: inline-block;
+}
+
+.col-lg-12{
+  text-align: center;
+}
